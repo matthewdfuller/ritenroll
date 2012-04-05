@@ -1,0 +1,257 @@
+body
+{
+    background-color: #FFFFFF !important; /*F6F6F6*/
+    font-family: Arial, sans-serif !important;
+}
+
+/*Changes the block around the form from white to gray*/
+.PSPAGECONTAINER
+{
+    background-color: #FFFFFF !important;
+
+}
+
+/*Main div around all*/
+#win0divPSPAGECONTAINER
+{
+    width: 530px !important;
+}
+
+#win0divDERIVED_CLSRCH_GROUPBOX2
+{
+    width:
+}
+
+.patransactiontitle
+{
+    font-family: Arial, sans-serif !important;
+    font-size: 24px !important;
+    color: #513127 !important;
+    border-bottom-color: #F36E21 !important;
+    width: 541px !important;
+}
+
+/*Div holding "Enter Search Criteria"*/
+#win0divlblDERIVED_CLSRCH_SSR_CLASS_LBL
+{
+    margin-top: 8px !important;
+}
+
+/*Headers like "Enter Search Criteria"*/
+.papagetitle
+{
+    font-family: Arial, sans-serif !important;
+    font-size: 16px !important;
+    color: #513127 !important;
+    margin-left: 3px;
+}
+
+/*Now gray part behind Institution and Term with drop downs*/
+#win0div\$ICField46
+{
+    background-color: #F7F7F7 !important;
+    margin-top: -9px !important;
+    width: 540px !important;
+    border-top: 2px solid #AAA !important;
+}
+
+/*Making the "select at least 2 search criteria text disappear"*/
+#win0div\$ICField42
+{
+    display: none;
+}
+
+#win0divDERIVED_CLSRCH_SSR_GROUP1
+{
+    background-color: #F7F7F7 !important;
+    width: 540px !important;
+}
+
+/*Label text next to the drop down boxes*/
+.PSDROPDOWNLABEL,.PSEDITBOXLABEL,.PSRADIOBUTTON
+{
+    font-family: Arial, sans-serif !important;
+    font-size: 13px !important;
+    color: #513127 !important;
+}
+
+/*Drop down boxes*/
+.paadditionalinstructions, .psdropdownlist, .pshyperlinkdisabled, .pslongeditbox, .pshyperlinkdisabled, .pssrchresultsevenrowdisabled, .pssrchresultsoddrowdisabled 
+{
+    font-size: 13px !important;
+    color: #513127 !important;
+}
+
+/*Label on table header*/
+.psgroupboxlabel {
+    margin-top: 0px !important;
+    width: 541px !important;
+    margin-left: 7px !important;
+    font-size: 16px !important;
+    font-family: Arial !important;
+    color: #513127 !important;
+    background-color: #FFFFFF !important;
+    border-color: #F36E21 !important;
+    border-left-width: 0px !important;
+    border-right-width: 0px !important;
+    border-top-width: 0px !important;
+    border-bottom-width: 0px !important;
+}
+
+/*Box behind Course Subject, button, textbox*/
+#win0divDERIVED_CLSRCH_SSR_SUBJ_GROUP2
+{
+    background-color: #F7F7F7 !important;
+    margin-top: -5px !important;
+    margin-left: -8px !important;
+    width: 540px !important;
+    border-top: 2px solid #AAA !important;
+}
+
+/*Table box behind Course Number Course Career*/
+#ACE_CLASS_SRCH_WRK2_CATALOG_NBR
+{
+    width: 540px !important;
+    background-color: #F7F7F7 !important;
+    margin-top: -12px !important;
+    margin-left: -10px !important;
+    padding-top: 4px !important;
+}
+
+/*Main table box*/
+.paframelevel1, .paframelevel1wbo, .psgroupboxwbo
+{
+    border-width: 0px !important;
+}
+
+/*Buttons*/
+#CLASS_SRCH_WRK2_SSR_PB_SUBJ_SRCH
+{
+}
+
+/*Green select buttons*/
+.SSSBUTTON_ACTIONLINK
+{
+    background-color: #F7F7F7 !important;
+    border: 0px solid #777777 !important;
+    color: #CE5B18 !important;
+}
+
+/*Input text boxes*/
+.pseditbox {
+    font-size: 13px !important;
+    border: 1px solid #AAAAAA !important;
+}
+
+/*Search page, class search criteria box margins top left*/
+#win0divDERIVED_CLSRCH_GROUP3
+{
+    margin-top: 15px !important;
+    margin-left: 3px !important;
+}
+
+/*Helper text under Class Search Criteria*/
+#helpbelowcoursesubj
+{
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-top: -3px;
+    font-weight: normal;
+    color: #777777 !important;
+}
+
+/*Use additional search criteria text help text*/
+#win0div\$ICField78
+{
+    width: 390px !important;
+}
+
+.PAADDITIONALINSTRUCTIONS
+{
+    font-size: 11px !important;
+}
+
+/*Div holding Advanced Search Criteria*/
+#win0divDERIVED_CLSRCH_SSR_EXPAND_COLLAPS\$79\$
+{
+    border-bottom: 0px !important;
+    margin-left: -12px;
+}
+
+/*Div holding additional search criteria*/
+#win0divDERIVED_CLSRCH_GROUP4
+{
+    margin-left: -10px !important;
+    margin-top: -12px !important;
+    width: 540px !important;
+    border-top: 2px solid #AAA !important;
+    background-color: #F7F7F7 !important;
+}
+
+/*Border behind Advanced Search Criteria*/
+.SSSMSGSUCCESSFRAMEWBO
+{
+    border: 0px !important;
+    background-color: white !important;
+}
+
+/*Another smaller table border and background color behind Advanced Search Criteria*/
+#ACE_DERIVED_CLSRCH_SSR_EXPAND_COLLAPS\$79\$
+{
+    background-color: white !important;
+}
+
+/*Link ID text of Advanced Search criteria*/
+#DERIVED_CLSRCH_SSR_EXPAND_COLLAPS\$81\$
+{
+    font-size: 16px !important;
+    color: #513127 !important;
+}
+
+/*Div holding the little arrow next to Advanced Search Criteria*/
+#win0divDERIVED_CLSRCH_SSR_EXPAND_COLLAPS\$80\$
+{
+    margin-top: 5px !important;
+}
+
+/*Course attribute table box*/
+#RIT_CRSEATTR_VW\$scrolli\$0
+{
+    width: 530px !important;
+}
+
+/*Show open classes only label*/
+#CLASS_SRCH_WRK2_SSR_OPEN_ONLY_LBL
+{
+    color: #777777;
+}
+
+#betabar
+{
+    height: 21px;
+    background-color: #FEFFBF;
+    font-family: Arial, sans-serif;
+    font-size: 11px;
+    color: #7F760F;
+    text-align: center;
+    border-bottom: 1px solid #DFD77D;
+    padding-top: 8px;
+}
+
+.PAADDITIONALINSTRUCTIONS
+{
+    display: none;
+}
+
+/*The course attribute, attribute descr, attr val, val descr table*/
+.PSLEVEL1GRIDCOLUMNHDR
+{
+    background-color: #D9D9D9 !important;
+    border-color: #777777 !important;
+    color: #777777 !important;
+}
+
+table.PSLEVEL1GRID tr
+{
+    margin-bottom: 10px;
+}

@@ -1,0 +1,17 @@
+{
+  "name": "RIT Enrollment Improver",
+  "version": "0",
+  "description": "",
+
+
+  "permissions": ["tabs", "http://*/*", "https://*/*", "file:///*/*"],
+    "content_scripts": [
+    {
+        "matches": [ "https://mycampustest.rit.edu/*"],
+        "css": ["style.css"],
+        "js": ["bg.js"],
+	"run_at": "document_start",
+        "all_frames": true
+    }
+  ]
+}
